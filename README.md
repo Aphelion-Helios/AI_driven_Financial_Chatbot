@@ -30,7 +30,7 @@
 import pandas as pd
 data = pd.read_csv('/content/final_data_report.csv')
 data_2 = pd.read_csv('/content/Summary_final_report.csv')
-data```
+data
 Unnamed: 0	Year	Total Revenue	Net Income	Total Assets	Total Liabilities	Cash Flow from Operating Activities	Company	Revenue Growth (%)	Net Income Growth (%)	Assets Growth (%)	Liabilities Growth (%)	Cash Flow from Operations Growth(%)
 0	0	2023	211915	72361	411976	205753	87582	Microsoft	0.000000	0.000000	0.000000	0.000000	0.000000
 1	1	2022	198270	72738	364840	198298	89035	Microsoft	-6.438902	0.520999	-11.441443	-3.623276	1.659017
