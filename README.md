@@ -3,7 +3,7 @@
 
 
 
-# Languages -  ![](https://img.shields.io/badge/logo-Python-blue?logo=Python) - ![](https://img.shields.io/badge/logo-Pandas-blue?logo=Pandas) - ![](https://img.shields.io/badge/logo-Numpy-blue?logo=Numpy) - ![](https://img.shields.io/badge/logo-Plotly-blue?logo=Plotly) 
+# Languages -  ![](https://img.shields.io/badge/^-Python-blue?logo=Python) - ![](https://img.shields.io/badge/^-Pandas-blue?logo=Pandas) - ![](https://img.shields.io/badge/^-Numpy-blue?logo=Numpy) - ![](https://img.shields.io/badge/^-Plotly-blue?logo=Plotly) 
 
 # The AI powered Financial Chatbot Prototype currently responds only to the given set of questions for selected companies and fiscal years wiz: –
 
